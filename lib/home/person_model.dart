@@ -1,7 +1,6 @@
 class PersonModel {
-  final num height;
-  final num weight;
+  num height;
+  num weight;
 
-  PersonModel({ required this.height, required this.weight });
-
+  PersonModel({required this.height, required this.weight});
 }
