@@ -1,6 +1,6 @@
-# unitins_imc
+# Unitins_imc
 
-A new Flutter project.
+Um Projeto em flutter desenvolvido pelos alunos da Universidade Estadual do Tocantins, com fins educacionais.
 
 ## Getting Started
 
