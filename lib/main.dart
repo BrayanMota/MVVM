@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.pink,
       ),
-      home: const HomeView(title: 'Unitins ICM'),
+      home: const HomeView(title: 'Unitins IMC'),
     );
   }
 }
